@@ -24,5 +24,3 @@ Learning Opportunities:
 • Designing and optimizing database schemas for image metadata and tags.
 • Implementing secure image sharing mechanisms.
 • Exploring Azure CDN for improving image delivery performance.
-
-![image](https://github.com/karthimca07/ImageGalleryUsingAzureStorageAccount/assets/16021736/fffb5c98-9313-4613-a4bc-ef3c9fd2c06a)
