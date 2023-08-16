@@ -1,0 +1,2 @@
+C:\Users\karamasa\Desktop\Github\ImageGalleryUsingAzureStorageAccount\src\ImageGallery\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\karamasa\Desktop\Github\ImageGalleryUsingAzureStorageAccount\src\ImageGallery\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
